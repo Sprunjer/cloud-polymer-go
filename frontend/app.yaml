@@ -23,3 +23,5 @@ handlers:
   upload: static/index.html
 - url: /
   static_dir: static
+  
+application: jayneplain-go
