@@ -17,3 +17,5 @@ dispatch:
 
   - url: "*/*"
     module: frontend
+    
+application: jayneplain-go
