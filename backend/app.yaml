@@ -21,3 +21,5 @@ handlers:
   secure: always
   
 application: jayneplain-go
+
+version: dev-1
