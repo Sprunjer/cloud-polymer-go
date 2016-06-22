@@ -20,4 +20,6 @@ dispatch:
     
 application: jayneplain-go
 
+version: dev-1
+
 
